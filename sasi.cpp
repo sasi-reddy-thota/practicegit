@@ -10,3 +10,4 @@ cout<<"a*i"<<a*i;
 return 0;
 }
 }
+//this one is added
